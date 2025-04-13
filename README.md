@@ -66,14 +66,15 @@ Para realização do trabalho, utilizamos a base de dados **java-client** fornec
 
 Can you please rate whether the code 1 is better than the code 2 in terms of clarity, readability, and maintainability?
 **I would like to know if:**
- • The code is easy to understand.
- • There are improvements in naming, structure, or style.
- • It is easy to maintain and extend.
+ - The code is easy to understand.
+ - There are improvements in naming, structure, or style.
+ - It is easy to maintain and extend.
  
  **Code 1:**
- `[code_1]`
+  - `[code_1]`
+ 
  **Code 2:**
- `[code_2]`
+  - `[code_2]`
 
 ---
 
