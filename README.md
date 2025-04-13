@@ -54,7 +54,7 @@ Para realização do trabalho, utilizamos a base de dados **java-client** fornec
 ## Modelos de Linguagem Utilizados
 
 - **GPT-4o mini**
-- **Gemma** (LLM Open Source)
+- **Llama 2** (LLM Open Source)
 
 *Versões específicas dos modelos ainda serão definidas.*
 
